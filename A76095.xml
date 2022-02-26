@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last will and testament of Superstition: eldest daughter to Antichrist, the eldest sonne to Lucifer, the prince of this world, of the family of popery, in the kingdome of idolatry: being fallen into a grievous fit of sicknesse, without all hopes of recovery. Made in the prelates clymactericall yeer, Anno Domini. 1641.</title>
+            <author>I. B., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76095</idno>
+            <idno type="STC">Wing B108</idno>
+            <idno type="STC">Thomason E135_19</idno>
+            <idno type="STC">ESTC R2859</idno>
+            <idno type="EEBO-CITATION">99872204</idno>
+            <idno type="PROQUEST">99872204</idno>
+            <idno type="VID">156439</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76095)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156439)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last will and testament of Superstition: eldest daughter to Antichrist, the eldest sonne to Lucifer, the prince of this world, of the family of popery, in the kingdome of idolatry: being fallen into a grievous fit of sicknesse, without all hopes of recovery. Made in the prelates clymactericall yeer, Anno Domini. 1641.</title>
+                  <author>I. B., Gent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Per I. B. gent.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156439:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <p>THE Laſt Will and Teſtament OF SVPERSTITION: Eldeſt Daughter to Antichriſt, <hi>THE</hi> Eldeſt Sonne to LVCIFER, the Prince of this World, of the Family of <hi>Popery,</hi> in the Kingdome of <hi>Idolatry:</hi>
+            </p>
+            <p>Being fallen into a grievous fit of Sickneſſe, with<g ref="char:EOLhyphen"/>out all hopes of Recovery.</p>
+            <p>
+               <hi>Made in the Prelates Clymactericall yeer,</hi> Anno Domini. 1641.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Iohn Hammond.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="mock_will_and_testament">
+            <pb facs="tcp:156439:2"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:156439:2"/>
+            <!-- PDF PAGE 19 -->
+            <p>THE Laſt VVill and Teſtament of <hi>Superſtition,</hi> eldeſt Daughter to <hi>Antichriſt,</hi> eldeſt ſon to <hi>Lucifer,</hi> the Prince of this World, of the family of Popery, in the Kingdome of Idolatry:</p>
+            <p>
+               <hi>Being fallen into a grievous Fit of ſickneſſe, with<g ref="char:EOLhyphen"/>out all hopes of Recovery, wade, An. Dom.</hi> 1641.</p>
+            <p>IN the name of his Holineſſe, Antichriſt the Pope, ſobeit.</p>
+            <p>I Superſtition, of the Pariſh of blinde Devotion, in the County of Corrupt Do<g ref="char:EOLhyphen"/>ctrine, and in the Kingdome of Idolatry, be<g ref="char:EOLhyphen"/>ing infirme and weake of body, craſed in me<g ref="char:EOLhyphen"/>mory, and worſe in Minde, have made this my Teſtament and laſt Will in writing, bearing date the Twelfth day of <hi>February,</hi> in the yeer of my confuſion, 1641. Wherein I bequeath as followeth.</p>
+            <pb facs="tcp:156439:3"/>
+            <!-- PDF PAGE 20 -->
+            <div type="list_of_bequests">
+               <opener>Inprimis,</opener>
+               <p>I give and bequeath my Annimalls, and in<g ref="char:EOLhyphen"/>terioriors, to be diſpoſed of, by <hi>Lucifer,</hi> the Prince of this World; whom I have devoutly and faithfully ſerved, during my proſperity, as ſhall pleaſe him; whether it be in Purgato<g ref="char:EOLhyphen"/>ry, or otherwiſe; and as for my exterior body, and fleſhly Members thereof, I commit and bequeath unto the earth, from whence they came, having been Earthly ſenſuall and devi<g ref="char:EOLhyphen"/>liſh, after my Funerall Expences and debts be paid and diſcharged, in ſuch manner and form as hereafter I ſhall preſcribe, to be therein in<g ref="char:EOLhyphen"/>terred, and covered, with perpetuall oblivi<g ref="char:EOLhyphen"/>on.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath all my Tene<g ref="char:EOLhyphen"/>ments, that are Free-hold, lying or falſe be<g ref="char:EOLhyphen"/>ing, in the Pariſh of <hi>Ignorance,</hi> within the County of <hi>Blinde Devotion,</hi> before mention<g ref="char:EOLhyphen"/>ed, with all the Appurtenances thereunto be<g ref="char:EOLhyphen"/>longing, commonly called, or knowne by the name, or names of Lack-witt, and Want-Vnderſtanding, unto my elder Brother Lit<g ref="char:EOLhyphen"/>tle wit, and the heire Males of his body law<g ref="char:EOLhyphen"/>fully begootten; and for want of ſuch iſſue, to his heires female, and their heires; and for want of ſuch iſſue, to his heires generall at Law.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath all thoſe tene<g ref="char:EOLhyphen"/>ments, lying or falſe being, which are Coppi<g ref="char:EOLhyphen"/>hold
+<pb facs="tcp:156439:3"/>
+                  <!-- PDF PAGE 20 -->within the Pariſh and County afore<g ref="char:EOLhyphen"/>ſaid, commonly called or known by the name of Raſh-wit, and Selfe-will, unto my youn<g ref="char:EOLhyphen"/>ger brother Obſtinate Perverſneſſe, to have and to hold the ſame during his Naturall life: and after his extinguiſhment to my right hei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath my Goods and Chattels as followeth.</p>
+               <p>
+                  <hi>Imprimis,</hi> I give and bequeath my whole Li<g ref="char:EOLhyphen"/>brary of Bookes both in Print and Manu<g ref="char:EOLhyphen"/>ſcript, containing his Holineſſe Traditions, and Inventions, the holy Apocrypha, Prayer Bookes to Saints, Ave Maries, and the Old and New Teſtament miſ-interpreted, and corrupted, and other the like, to my well-be<g ref="char:EOLhyphen"/>loved Vncles, Cardinall <hi>Falſe-heart,</hi> Cardi<g ref="char:EOLhyphen"/>nall <hi>Would have wit,</hi> Cardinall <hi>Want-wit,</hi> Do<g ref="char:EOLhyphen"/>ctor <hi>Corrupt-doctrine,</hi> Doctor <hi>Wreſt-ſcripture,</hi> Doctor <hi>Canon,</hi> and Doctor <hi>Ambition,</hi> to uſe and ſtudy ſuch things as may be neceſſary to uphold and maintaine his Holineſſes King<g ref="char:EOLhyphen"/>dome.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath all thoſe Goods and Chattels placed in my Cloſet and private Chambers, as Pictures, Images of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary,</hi> of Chriſt and the twelve Apo<g ref="char:EOLhyphen"/>ſtles, of Saints and Angels, and the like, un<g ref="char:EOLhyphen"/>to my well-beloved Coſens, Newters, halfe Proteſtant, halfe Papiſt, or otherwiſe, to bee
+<pb facs="tcp:156439:4"/>
+                  <!-- PDF PAGE 21 -->privately conveyed to Rome, there by his Ho<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>neſſe to be diſpoſed of; or, at my deceaſe to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e burned as a ſacrifice accompanying me to deſolation.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath all thoſe Orna<g ref="char:EOLhyphen"/>ments in my houſe of Divinew or ſhip, Maſſes, Diriges, Altars, Bowings, Cringings, Cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>ping, whipping, Beating, Kneeſing, Stand<g ref="char:EOLhyphen"/>ing, and all other the appurtenances to that exerciſe belonging, to bee with me aboliſhed, and for ever buried in everlaſting obſcurity.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath all my wearing appatrell, both wollen and linnen, my out<g ref="char:EOLhyphen"/>ward garments, as Pluſh, Velvet, Satten, Scar<g ref="char:EOLhyphen"/>let, Crimſon, Purple, and the like, to my well-beloved friends, Dukes, Earles, Lords, Barons, and other temporall Knights, and to be by them worne for my ſake, and not any more by any of the Clergy, whether Cardi<g ref="char:EOLhyphen"/>nall, Prelate or Biſhop; as heretofore. My o<g ref="char:EOLhyphen"/>ther garmen s.as Lawn ſleeves, Hoods, Cop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Bagge, Surpluſes, and the like, I give and be<g ref="char:EOLhyphen"/>queath unto Drapers, Sempſters, and the like, to be converted to other uſes more neceſſary for the body and profitable for the purſe. My Beads, Croſſes, ſhaven Crownes. Leather-pared Friers garments, black and gray, I give and bequeath to Prieſt, Ieſuits, Monkes, Fri<g ref="char:EOLhyphen"/>ers, Capuchins, and by them to bee uſed and exerciſed in any parts of his Holineſſes Do<g ref="char:EOLhyphen"/>minions
+<pb facs="tcp:156439:4"/>
+                  <!-- PDF PAGE 21 -->and Kingdoms of Idolatry, where they can profeſſe the ſame; and where not imme<g ref="char:EOLhyphen"/>diatly after my departure to be expulſed and extirpated.</p>
+               <p>
+                  <hi>Item,</hi> I give and bequeath towards my Fu<g ref="char:EOLhyphen"/>nerall Expences, 3000. Wax Candles, as many Tapers, 10000. pounds to the Singers that ſhall ſing Maſſe, and Dirges at the ſame; and 5000. pounds <hi>per Annum,</hi> for Prayers to be continually uſed for my reſurrection a<g ref="char:EOLhyphen"/>gaine, in due time.</p>
+               <p>
+                  <hi>Item,</hi> I doe nominate and appoint my ill-affected friends, whom otherwiſe I cannot chuſe, but muſt truſt as Executors of this my Laſt Will and Teſtament, The Lawes and Ordinances of the High Court of Parliament now aſſembled in the Kingdom of <hi>England,</hi> by whom I have received my deadly wound; And the Iuſtices of Peace, and other Officers within the ſeverall Counties, where I have been affected and proſperous, I doe nominate and appoint to my Overſeers, to ſee this my Will executed and duly performed.</p>
+            </div>
+            <closer>
+               <signed>
+                  <hi>In witneſſe whereof I have ſet to my hand, SVPERSTITION, In the preſence of</hi> R. P. C.D. P.I. F. &amp;c. <hi>Per</hi> I. B. <hi>Gent.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
